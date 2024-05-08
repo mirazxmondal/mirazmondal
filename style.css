@@ -25,6 +25,7 @@ body {
 
 /* Navbar styling */
 .navbar {
+  display: flex;
   background-color: #333;
   overflow: hidden;
 }
@@ -62,6 +63,10 @@ body {
 
 .dark-mode .navbar {
   background-color: #111;
+}
+
+button {
+  padding: 10px;
 }
 
 /* CSS for ABOUT section */

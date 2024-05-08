@@ -18,9 +18,9 @@ darkModeToggle.addEventListener("click", () => {
   mainContainer.classList.toggle("dark-mode");
 
   // Toggle button text between "Light Mode" and "Dark Mode"
-  if (darkModeToggle.textContent === "Light Mode") {
-    darkModeToggle.textContent = "Dark Mode";
+  if (darkModeToggle.textContent === "Light") {
+    darkModeToggle.textContent = "Dark";
   } else {
-    darkModeToggle.textContent = "Light Mode";
+    darkModeToggle.textContent = "Light";
   }
 });

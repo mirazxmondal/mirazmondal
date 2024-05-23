@@ -16,5 +16,6 @@
 
 #### TechStack : Nextjs, Framer Motion
 
-
+<!-- Resources  -->
+<!-- https://pickyourtrail.com/careers -->
 
